@@ -9,7 +9,7 @@ function App(): React.JSX.Element {
       <Text>Hello Yassine and fuck u all </Text>
       <Text>Hello Yassine and fuck u all </Text>
       <Text>Hello Yassine and fuck u all </Text>
-      <Text>Hello Yassine and fuck u all </Text>
+      <Text>Hello Yassine and fuck u al </Text>
       <Button  title='Hello pls click me'/>
       <Text>Hello Yassine and fuck u all </Text>
       <Pressable 
